@@ -19,7 +19,7 @@ I leverage my expertise in .NET, C#, Web, SQL, and other technologies to design,
   💎 C# and VB.NET\
   💎 Microsoft SQL Server\
   💎 ASP.NET Webforms\
-  💎 Web Services (WCF/API)\  
+  💎 Web Services (WCF and API)\
   💎 Microsoft Reporting Services (SSRS)\
   💎 Microsoft Integration Services (SSIS)\
   💎 PowerShell\
